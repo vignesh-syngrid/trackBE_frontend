@@ -1,2 +1,49 @@
-# trackBE_frontend
-trackBE_frontend
+# I-Track-Admin
+
+This is the **I-Track-Admin** project, built with [Next.js](https://nextjs.org) and styled using [shadcn/ui](https://ui.shadcn.com/).
+
+## Getting Started
+
+First, install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+Then, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## Project Structure
+
+- `app/` — Main application pages and components
+- `components/` — Shared UI components (using shadcn/ui)
+- `lib/` — Utility functions and libraries
+
+## Styling
+
+This project uses [shadcn/ui](https://ui.shadcn.com/) for modern, accessible React components and [Tailwind CSS](https://tailwindcss.com/) for utility-first styling.
+
+## Learn More
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [shadcn/ui Documentation](https://ui.shadcn.com/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+
+## Deployment
+
+Deploy your app easily with [Vercel](https://vercel.com/).
+
+For more details, see the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).his is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
