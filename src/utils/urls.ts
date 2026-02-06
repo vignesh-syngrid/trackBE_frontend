@@ -1,6 +1,6 @@
 // const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL as string;
 // const BASE_URL = "http://localhost:4000/api"
-const BASE_URL = "https://trackbe-backend.onrender.com/"
+const BASE_URL = "https://trackbe-backend.onrender.com/api"
 console.log(BASE_URL,'--------------BASE_URL')
 console.log(BASE_URL,'--------------BASE_URL')
 const URLS = {
