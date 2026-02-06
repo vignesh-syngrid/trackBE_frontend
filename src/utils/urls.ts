@@ -3,8 +3,8 @@
 // const BASE_URL = "https://trackbe-backend.onrender.com/api"
 
 // const BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL as string;
-// const BASE_URL = "http://localhost:4000/api"
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL as string;
+const BASE_URL = "http://localhost:4000/api"
+// const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL as string;
 
 
 
