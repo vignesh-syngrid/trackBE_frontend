@@ -27,7 +27,8 @@ export default function LoginPage() {
       {/* Logo Section */}
       <div className="mb-6 text-center">
         <Image
-          src="/assets/itrack-logo.svg"
+          {/* src="/assets/itrack-logo.svg" */}
+          src="/assets/syngrid_logo.png"
           alt="iTrack Logo"
           width={160}
           height={40}
