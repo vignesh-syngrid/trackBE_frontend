@@ -84,7 +84,6 @@ const Sidebar = ({
     const roleSlug = storedUser?.role?.slug;
 
     if (roleSlug === 'super_admin') {
-      // setCompanyData({ name: 'iTrack', logo: '/assets/itrack-logo.svg' });
       setCompanyData({ name: 'iTrack', logo: '/assets/syngrid_logo.png' });
     } else if (roleSlug === 'vendor' || roleSlug === 'supervisor') {
       // Use vendor profile for name/logo
