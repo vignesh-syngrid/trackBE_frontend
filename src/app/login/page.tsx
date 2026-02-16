@@ -7,7 +7,7 @@ import { FiEye, FiEyeOff } from 'react-icons/fi';
 
 export default function LoginPage() {
   const { login } = useAuth();
-  const [email, setEmail] = useState('superadmin@syngrid.com');
+  const [email, setEmail] = useState('superadmin@itrack.com');
   const [password, setPassword] = useState('Admin@123');
   const [showPassword, setShowPassword] = useState(false);
 
